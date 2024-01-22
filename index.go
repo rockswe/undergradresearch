@@ -1,1 +1,10 @@
-// TO BE CONTINUED
+package main
+
+import (
+  "fmt"
+  "os"
+  )
+
+func main(){
+  
+}
